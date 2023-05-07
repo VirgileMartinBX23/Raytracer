@@ -1,2 +1,3 @@
 # Raytracer
-Project 1 of CSE306
+The name of the report is Projet_1___CSE306___Computer_Graphics.pdf
+
